@@ -1,0 +1,7 @@
+{
+  "name": "Botanical Buddy",
+  "description": "Your AI-powered gardening assistant. Identify plants from photos and chat with an expert to get detailed care instructions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
